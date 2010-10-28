@@ -1,1 +1,5 @@
 This is ASCII to Unicode Mongolian cyrillic converter for Firefox add-on. Feel free to improve this addon.
+
+Need to convert with HTML structure. Now it's convert text and strip all HTML and removing all visible paragraphs etc.
+
+Sorry for my poor English.

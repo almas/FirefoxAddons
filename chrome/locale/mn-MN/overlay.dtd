@@ -1,8 +1,0 @@
-<!ENTITY dusalconverter.label "Арзгар хөрвүүл">
-<!ENTITY dusalconverterContext.label "Арзгар хөрвүүл">
-<!ENTITY dusalconverterContext.accesskey "C">
-<!ENTITY dusalconverterToolbarButton.label "Арзгар хөрвүүл">
-<!ENTITY dusalconverterToolbarButton.tooltip "Арзгар хөрвүүл!">
-<!ENTITY dusalconverterSidebar.label "Арзгар хөрвүүл">
-<!ENTITY dusalconverterToolbar.name  "Арзгар хөрвүүл">
-<!ENTITY dusalconverterToolbar.label "Энэ бол Арзгар текст хөрвүүлэлтийн багажийн самбар та үүнийг Харах &gt; Багажийн самбарууд &gt; &dusalconverterToolbar.name; рүү орж хааж болно.">

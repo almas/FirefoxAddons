@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://dusalconverter/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://dusalconverter/locale/overlay.dtd">
+<overlay id="dusalconverter-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="overlay.js"/>
+  <script src="ff-overlay.js"/>
+
+  <stringbundleset id="stringbundleset">
+    <stringbundle id="dusalconverter-strings" src="chrome://dusalconverter/locale/overlay.properties"/>
+  </stringbundleset>
+
+  <menupopup id="menu_ToolsPopup">
+    <menuitem id="dusalconverter-toolsmenu" label="&dusalconverter.label;"
+              oncommand="dusalconverter.onMenuItemCommand(event);"/>
+  </menupopup>
+
+  <popup id="contentAreaContextMenu">
+    <menuitem id="context-dusalconverter" label="&dusalconverterContext.label;"
+              accesskey="&dusalconverterContext.accesskey;"
+              insertafter="context-stop"
+              oncommand="dusalconverter.onMenuItemCommand(event)"/>
+  </popup>
+
+
+
+
+</overlay>

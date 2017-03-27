@@ -1,8 +1,0 @@
-<!ENTITY dusalconverter.label "Convert to Unicode">
-<!ENTITY dusalconverterContext.label "Convert to Unicode">
-<!ENTITY dusalconverterContext.accesskey "C">
-<!ENTITY dusalconverterToolbarButton.label "Convert to Unicode">
-<!ENTITY dusalconverterToolbarButton.tooltip "Convert to Unicode!">
-<!ENTITY dusalconverterSidebar.label "Convert to Unicode">
-<!ENTITY dusalconverterToolbar.name  "Convert to Unicode">
-<!ENTITY dusalconverterToolbar.label "This is an Convert to Unicode toolbar. You can hide it under View &gt; toolbars &gt; &dusalconverterToolbar.name;">
